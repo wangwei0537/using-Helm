@@ -1,0 +1,5 @@
+```shell
+
+helm template .
+
+```

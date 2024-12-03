@@ -6,10 +6,10 @@ version: 0.1.0
 appVersion: "1.16.0"
 dependencies:
   - name: mariadb
-    repository: https://raw.githubusercontent.com/bitnami/charts/archive-full-index/bitnami
-    version: 9.5.0
+    repository: https://kubernetes.oss-cn-hangzhou.aliyuncs.com/charts
+    version: 10.1.31
     alias: db1
   - name: mariadb
-    repository: https://raw.githubusercontent.com/bitnami/charts/archive-full-index/bitnami
-    version: 9.5.0
+    repository: https://kubernetes.oss-cn-hangzhou.aliyuncs.com/charts
+    version: 10.1.31
     alias: db2
